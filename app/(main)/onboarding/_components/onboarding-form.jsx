@@ -1,9 +1,12 @@
+"use client"
+
+
 import React from 'react'
 
-const OnboardingForm = () => {
+const OnboardingForm = ({industries}) => {
   return (
     <div>
-      
+      OnboardingForm
     </div>
   )
 }
